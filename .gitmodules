@@ -1,0 +1,4 @@
+[submodule "testsite/public"]
+	path = testsite/public
+	url = git@github.com:jwdevantier/testblog.site.git
+	branch = main
